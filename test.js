@@ -6,10 +6,10 @@ function sum(a, b) {
 alert(`summa 2+3= ${sum(2, 3)}`)
 }) ()
 
-function print(message) {
+function alertAll() {
     console.log('message')
 }
 
-let sum = (function () {
+let test = (function () {
     return (a, b) => a + b;
 })()
