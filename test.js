@@ -5,7 +5,13 @@ function sum(a, b) {
     console.log(`summa 2+3= ${sum(2, 3)}`})()
 alert(`summa 2+3= ${sum(2, 3)}`)
 }) ()
-
+function alertAll() {
+    console.log('message')
+} function alertAll() {
+    console.log('message')
+} function alertAll() {
+    console.log('message')
+}
 function alertAll() {
     console.log('message')
 }
