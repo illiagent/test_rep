@@ -10,6 +10,14 @@ function alertAll() {
     console.log('message')
 }
 
+
+dfsdfsd
+
+fss
+dfds
+sf
+
+
 let test = (function () {
     return (a, b) => a + b;
 })()
